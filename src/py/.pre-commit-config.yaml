@@ -38,7 +38,7 @@ repos:
         types_or: [ python, pyi ]
         #  options: ignore one line things [E701]
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.35.1
+    rev: v1.37.0
     hooks:
       - id: yamllint
         name: yamllint
